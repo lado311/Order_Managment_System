@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.sourcelink.json
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\OrderManagment.SharedLibrary.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\OrderManagment.SharedLibrary.pdb
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductA.77020ED6.Up2Date
