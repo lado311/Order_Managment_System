@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi.Domain", "AuthenticationApi.Domain\AuthApi.Domain.csproj", "{70353DDE-EB06-43C0-9A01-0E8FC87ED926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi.Application", "AuthApi.Application\AuthApi.Application.csproj", "{E563762E-446C-4549-B896-EE4C89C34D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi.Infrastructure", "AuthApi.Infrastructure\AuthApi.Infrastructure.csproj", "{705475AC-7A76-4684-B1B1-AF590DE10B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi.Presentation", "AuthApi.Presentation\AuthApi.Presentation.csproj", "{D1AA927A-7E73-467B-BFA1-E9E3DD6D4FEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagment.SharedLibrary", "..\OrderManagmentSystem.SharedLibrary\OrderManagment.SharedLibrary\OrderManagment.SharedLibrary.csproj", "{77226E45-689A-4BE8-B5B7-52CCE8116309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70353DDE-EB06-43C0-9A01-0E8FC87ED926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70353DDE-EB06-43C0-9A01-0E8FC87ED926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70353DDE-EB06-43C0-9A01-0E8FC87ED926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70353DDE-EB06-43C0-9A01-0E8FC87ED926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E563762E-446C-4549-B896-EE4C89C34D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E563762E-446C-4549-B896-EE4C89C34D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E563762E-446C-4549-B896-EE4C89C34D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E563762E-446C-4549-B896-EE4C89C34D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705475AC-7A76-4684-B1B1-AF590DE10B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705475AC-7A76-4684-B1B1-AF590DE10B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705475AC-7A76-4684-B1B1-AF590DE10B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705475AC-7A76-4684-B1B1-AF590DE10B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1AA927A-7E73-467B-BFA1-E9E3DD6D4FEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1AA927A-7E73-467B-BFA1-E9E3DD6D4FEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1AA927A-7E73-467B-BFA1-E9E3DD6D4FEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AA927A-7E73-467B-BFA1-E9E3DD6D4FEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77226E45-689A-4BE8-B5B7-52CCE8116309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77226E45-689A-4BE8-B5B7-52CCE8116309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77226E45-689A-4BE8-B5B7-52CCE8116309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77226E45-689A-4BE8-B5B7-52CCE8116309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

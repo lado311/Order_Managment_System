@@ -1,0 +1,97 @@
+[
+  {
+    "ContainingType": "AuthApi.Presentation.Controllers.UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/User/delete-user/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthApi.Presentation.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User/get-user/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthApi.Presentation.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "api/User/get-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthApi.Presentation.Controllers.UserController",
+    "Method": "UserAuthorization",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDto",
+        "Type": "AuthApi.Application.DTOs.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthApi.Presentation.Controllers.UserController",
+    "Method": "UserRegistration",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userAddDto",
+        "Type": "AuthApi.Application.DTOs.UserAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthApi.Presentation.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/update-user/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userAddDto",
+        "Type": "AuthApi.Application.DTOs.UserAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

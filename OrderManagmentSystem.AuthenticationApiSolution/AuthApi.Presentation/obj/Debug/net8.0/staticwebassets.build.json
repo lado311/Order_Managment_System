@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YBB+FQiSndwuMzS98qm2HbOUOXL4AwAACeaH6P4tPq8=",
+  "Source": "AuthApi.Presentation",
+  "BasePath": "_content/AuthApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

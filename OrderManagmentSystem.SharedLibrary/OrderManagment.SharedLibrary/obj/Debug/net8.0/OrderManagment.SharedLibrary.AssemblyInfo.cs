@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrderManagment.SharedLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f28af1926bc2bff2e61be68cb59162fdfb9179a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dacb7ca71db338c3362ea0ee89ad2ad9525a1a0d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrderManagment.SharedLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrderManagment.SharedLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
