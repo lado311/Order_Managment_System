@@ -13,8 +13,7 @@ namespace ProductApi.Application.Mapping
     {
         public ProductMappingProfile()
         {
-            CreateMap<ProductDto, Product>();
-            CreateMap<Product, ProductDto>();
+            CreateMap<ProductDto, Product>().ReverseMap();
 
         }
     }

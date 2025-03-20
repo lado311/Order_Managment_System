@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.deps.json
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderManagment.SharedLibrary.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderManagment.SharedLibrary.pdb
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.sourcelink.json
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.E18A5CB8.Up2Date
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll

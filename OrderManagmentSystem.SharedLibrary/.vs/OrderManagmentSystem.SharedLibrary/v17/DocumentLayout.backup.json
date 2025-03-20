@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.SharedLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.sharedlibrary\\ordermanagment.sharedlibrary\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|solutionrelative:ordermanagment.sharedlibrary\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.sharedlibrary\\ordermanagment.sharedlibrary\\extentions\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|solutionrelative:ordermanagment.sharedlibrary\\extentions\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.sharedlibrary\\ordermanagment.sharedlibrary\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.sharedlibrary\\ordermanagment.sharedlibrary\\middlewares\\listentoapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|solutionrelative:ordermanagment.sharedlibrary\\middlewares\\listentoapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.sharedlibrary\\ordermanagment.sharedlibrary\\extentions\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|solutionrelative:ordermanagment.sharedlibrary\\extentions\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3860BAA-61EB-4BA9-A044-945F202DEF05}|OrderManagment.SharedLibrary\\OrderManagment.SharedLibrary.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.sharedlibrary\\ordermanagment.sharedlibrary\\extentions\\jwtauthenticationscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,7 +49,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SharedServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.SharedLibrary\\OrderManagment.SharedLibrary\\Extentions\\SharedServiceContainer.cs",
               "RelativeDocumentMoniker": "OrderManagment.SharedLibrary\\Extentions\\SharedServiceContainer.cs",
@@ -66,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "JWTAuthenticationScheme.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.SharedLibrary\\OrderManagment.SharedLibrary\\Extentions\\JWTAuthenticationScheme.cs",
               "RelativeDocumentMoniker": "OrderManagment.SharedLibrary\\Extentions\\JWTAuthenticationScheme.cs",
@@ -74,8 +70,7 @@
               "RelativeToolTip": "OrderManagment.SharedLibrary\\Extentions\\JWTAuthenticationScheme.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:43:21.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T16:43:21.062Z"
             },
             {
               "$type": "Document",
@@ -87,12 +82,11 @@
               "RelativeToolTip": "OrderManagment.SharedLibrary\\Middlewares\\ListenToApiGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:36:48.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T16:36:48.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Jobs-API\\WebApplication21\\MiddleWares\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "..\\..\\Jobs-API\\WebApplication21\\MiddleWares\\ExceptionMiddleware.cs",
@@ -104,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "GlobalExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.SharedLibrary\\OrderManagment.SharedLibrary\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "OrderManagment.SharedLibrary\\Middlewares\\GlobalExceptionHandlingMiddleware.cs",
@@ -116,19 +110,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.SharedLibrary\\OrderManagment.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "OrderManagment.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.SharedLibrary\\OrderManagment.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "OrderManagment.SharedLibrary\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:18:12.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.SharedLibrary\\OrderManagment.SharedLibrary\\Models\\Response.cs",
@@ -137,8 +118,7 @@
               "RelativeToolTip": "OrderManagment.SharedLibrary\\Models\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:15:12.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T16:15:12.6Z"
             }
           ]
         }
