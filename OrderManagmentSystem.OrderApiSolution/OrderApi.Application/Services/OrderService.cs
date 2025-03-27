@@ -27,7 +27,7 @@ namespace OrderApi.Application.Services
         //Get User
         public async Task<UserDto> GetUser(int userId)
         {
-            var httpResponse = await client.GetAsync($"api/users/{userId}");
+            var httpResponse = await client.GetAsync($"api/User/get-user/{userId}");
             if (!httpResponse.IsSuccessStatusCode)
                 return null;
 
@@ -46,14 +46,14 @@ namespace OrderApi.Application.Services
             ProductDto productDto = await retryPipeLine.ExecuteAsync(async token => await GetProduct(order.ProductId));
             
             //prepare user
-            //var userDto = await retryPipeLine.ExecuteAsync(async token => await GetUser(order.ClientId));
+            var userDto = await retryPipeLine.ExecuteAsync(async token => await GetUser(order.ClientId));
 
             return new OrderDetailDto(
                 order.Id,
                 order.ProductId,
                 order.ClientId,
-                "userDto.Email",
-                "userDto.PhoneNumber",
+                userDto.Email,
+                userDto.PhoneNumber,
                 productDto.Name,
                 order.PurchaseQuantity,
                 productDto.Price,

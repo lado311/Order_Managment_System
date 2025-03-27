@@ -2,7 +2,7 @@
   {
     "ContainingType": "ProductApi.Presentation.Controllers.ProductController",
     "Method": "AddProduct",
-    "RelativePath": "api/Product/add-product",
+    "RelativePath": "api/Product",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -17,8 +17,24 @@
   },
   {
     "ContainingType": "ProductApi.Presentation.Controllers.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productDto",
+        "Type": "ProductApi.Application.DTOs.ProductDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductApi.Presentation.Controllers.ProductController",
     "Method": "DeleteProduct",
-    "RelativePath": "api/Product/delete-product",
+    "RelativePath": "api/Product",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -55,22 +71,6 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ProductApi.Presentation.Controllers.ProductController",
-    "Method": "UpdateProduct",
-    "RelativePath": "api/Product/update-product",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "productDto",
-        "Type": "ProductApi.Application.DTOs.ProductDto",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   }
 ]

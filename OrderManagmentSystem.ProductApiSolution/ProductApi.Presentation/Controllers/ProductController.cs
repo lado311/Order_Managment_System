@@ -30,7 +30,7 @@ namespace ProductApi.Presentation.Controllers
             return Ok(product);
         }
 
-        [HttpPost("add-product")]
+        [HttpPost]
         public async Task<IActionResult> AddProduct(ProductDto productDto)
         {
             var product = mapper.Map<Product>(productDto);
@@ -39,7 +39,7 @@ namespace ProductApi.Presentation.Controllers
             return Ok(entity);
         }
 
-        [HttpPut("update-product")]
+        [HttpPut]
         public async Task<IActionResult> UpdateProduct(ProductDto productDto)
         {
             var product = mapper.Map<Product>(productDto);
@@ -48,7 +48,7 @@ namespace ProductApi.Presentation.Controllers
             return Ok($"Updated Product: {result}");
         }
 
-        [HttpDelete("delete-product")]
+        [HttpDelete]
         public async Task<IActionResult> DeleteProduct(ProductDto productDto)
         {
             var product = mapper.Map<Product>(productDto);

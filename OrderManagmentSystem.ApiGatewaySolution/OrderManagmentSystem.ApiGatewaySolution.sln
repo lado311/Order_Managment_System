@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Presentation", "ApiGateway.Presentation\ApiGateway.Presentation.csproj", "{F1922C36-B0EC-4353-8DA1-6F001C71E169}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManagment.SharedLibrary", "..\OrderManagmentSystem.SharedLibrary\OrderManagment.SharedLibrary\OrderManagment.SharedLibrary.csproj", "{96EF2CC6-7951-4EDE-A482-0B58BC5EB694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1922C36-B0EC-4353-8DA1-6F001C71E169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1922C36-B0EC-4353-8DA1-6F001C71E169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1922C36-B0EC-4353-8DA1-6F001C71E169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1922C36-B0EC-4353-8DA1-6F001C71E169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EF2CC6-7951-4EDE-A482-0B58BC5EB694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EF2CC6-7951-4EDE-A482-0B58BC5EB694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EF2CC6-7951-4EDE-A482-0B58BC5EB694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EF2CC6-7951-4EDE-A482-0B58BC5EB694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
