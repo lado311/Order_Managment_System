@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OrderManagment.SharedLibrary.Exceptions;
@@ -10,6 +11,7 @@ namespace ProductApi.Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //[AllowAnonymous]
     public class ProductController(IProduct productRepository, IMapper mapper) : ControllerBase
     {
         [HttpGet("get-products")]
@@ -31,6 +33,7 @@ namespace ProductApi.Presentation.Controllers
         }
 
         [HttpPost]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AddProduct(ProductDto productDto)
         {
             var product = mapper.Map<Product>(productDto);
@@ -40,6 +43,7 @@ namespace ProductApi.Presentation.Controllers
         }
 
         [HttpPut]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> UpdateProduct(ProductDto productDto)
         {
             var product = mapper.Map<Product>(productDto);
@@ -49,6 +53,7 @@ namespace ProductApi.Presentation.Controllers
         }
 
         [HttpDelete]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteProduct(ProductDto productDto)
         {
             var product = mapper.Map<Product>(productDto);

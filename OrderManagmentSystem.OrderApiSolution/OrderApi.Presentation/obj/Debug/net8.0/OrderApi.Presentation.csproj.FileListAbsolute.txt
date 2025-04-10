@@ -165,7 +165,6 @@ C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSys
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrderApi.Presentation.props
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrderApi.Presentation.props
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Presentation\obj\Debug\net8.0\OrderApi.6F69A855.Up2Date
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Presentation\obj\Debug\net8.0\OrderApi.Presentation.dll
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.OrderApiSolution\OrderApi.Presentation\obj\Debug\net8.0\refint\OrderApi.Presentation.dll

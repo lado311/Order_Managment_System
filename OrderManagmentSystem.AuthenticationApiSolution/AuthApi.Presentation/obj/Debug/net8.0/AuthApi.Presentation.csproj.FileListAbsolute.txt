@@ -161,10 +161,10 @@ C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSys
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthApi.Presentation.props
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthApi.Presentation.props
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\AuthApi..31052A2F.Up2Date
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\AuthApi.Presentation.dll
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\refint\AuthApi.Presentation.dll
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\AuthApi.Presentation.pdb
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\AuthApi.Presentation.genruntimeconfig.cache
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\ref\AuthApi.Presentation.dll
+C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.AuthenticationApiSolution\AuthApi.Presentation\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

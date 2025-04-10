@@ -3,8 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58FD1BB0-BC09-42FE-BC79-B1AD60B7CA71}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{58FD1BB0-BC09-42FE-BC79-B1AD60B7CA71}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58FD1BB0-BC09-42FE-BC79-B1AD60B7CA71}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.productapisolution\\productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58FD1BB0-BC09-42FE-BC79-B1AD60B7CA71}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58FD1BB0-BC09-42FE-BC79-B1AD60B7CA71}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\user\\desktop\\ordermanagmentsystemmicroservicesproject\\ordermanagmentsystem.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +57,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALkTAAAAAAAAAAAowKoTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-27T18:51:32.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T18:45:32.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
               "ToolTip": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
               "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-19T21:42:40.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T21:42:40.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\ProductDto.cs",
@@ -75,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
@@ -87,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductMappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Application\\Mapping\\ProductMappingProfile.cs",
               "RelativeDocumentMoniker": "ProductApi.Application\\Mapping\\ProductMappingProfile.cs",
@@ -99,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
@@ -111,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductApi.Presentation\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\OrderManagmentSystemMicroservicesProject\\OrderManagmentSystem.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductApi.Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAuwDMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T15:28:56.678Z",
               "EditorCaption": ""

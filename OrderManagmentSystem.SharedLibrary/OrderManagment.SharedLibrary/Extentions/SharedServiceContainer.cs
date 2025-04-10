@@ -33,8 +33,7 @@ namespace OrderManagment.SharedLibrary.Extentions
         {
             app.UseMiddleware<GlobalExceptionHandlingMiddleware>();
 
-            //app.UseMiddleware<ListenToApiGateway>();
-
+            app.UseMiddleware<ListenToApiGateway>();
             return app;
         }
     }

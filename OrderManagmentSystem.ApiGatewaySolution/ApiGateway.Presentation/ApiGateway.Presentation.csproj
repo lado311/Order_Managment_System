@@ -16,4 +16,8 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\OrderManagmentSystem.SharedLibrary\OrderManagment.SharedLibrary\OrderManagment.SharedLibrary.csproj" />
+  </ItemGroup>
+
 </Project>

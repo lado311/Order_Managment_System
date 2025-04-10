@@ -2,6 +2,7 @@
 using AuthApi.Domain.Entities;
 using AuthApi.Domain.Interfaces;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using OrderManagment.SharedLibrary.Exceptions;
@@ -11,6 +12,7 @@ namespace AuthApi.Presentation.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class UserController(IUser userRepository, IMapper mapper) : ControllerBase
     {
         [HttpPost("register")]
@@ -33,6 +35,7 @@ namespace AuthApi.Presentation.Controllers
         }
 
         [HttpGet("get-user/{id:int}")]
+        [Authorize]
         public async Task<IActionResult> GetUser(int id)
         {
             var user = await userRepository.GetByIdAsync(id);

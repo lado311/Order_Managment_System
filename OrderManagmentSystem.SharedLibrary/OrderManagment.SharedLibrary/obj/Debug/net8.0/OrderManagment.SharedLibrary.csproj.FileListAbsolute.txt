@@ -11,4 +11,3 @@ C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSys
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.SharedLibrary\OrderManagment.SharedLibrary\obj\Debug\net8.0\refint\OrderManagment.SharedLibrary.dll
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.SharedLibrary\OrderManagment.SharedLibrary\obj\Debug\net8.0\OrderManagment.SharedLibrary.pdb
 C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.SharedLibrary\OrderManagment.SharedLibrary\obj\Debug\net8.0\ref\OrderManagment.SharedLibrary.dll
-C:\Users\User\Desktop\OrderManagmentSystemMicroservicesProject\OrderManagmentSystem.SharedLibrary\OrderManagment.SharedLibrary\bin\Debug\net8.0\OrderManagment.SharedLibrary.runtimeconfig.json
